@@ -1,0 +1,11 @@
+@charset "UTF-8";
+
+//settings
+@import "settings/normalize";
+@import "settings/variables";
+@import "settings/fonts";
+@import "settings/mixins";
+@import "settings/core";
+
+//blocks
+@import "blocks/_header";
